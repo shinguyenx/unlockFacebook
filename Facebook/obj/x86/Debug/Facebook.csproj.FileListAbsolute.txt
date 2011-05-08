@@ -1,0 +1,10 @@
+D:\ASP.NET\Facebook\Facebook\bin\Debug\Facebook.exe
+D:\ASP.NET\Facebook\Facebook\bin\Debug\Facebook.pdb
+D:\ASP.NET\Facebook\Facebook\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ASP.NET\Facebook\Facebook\obj\x86\Debug\Facebook.facebook.resources
+D:\ASP.NET\Facebook\Facebook\obj\x86\Debug\Facebook.Properties.Resources.resources
+D:\ASP.NET\Facebook\Facebook\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\ASP.NET\Facebook\Facebook\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\ASP.NET\Facebook\Facebook\obj\x86\Debug\Facebook.exe
+D:\ASP.NET\Facebook\Facebook\obj\x86\Debug\Facebook.pdb
+D:\ASP.NET\Facebook\Facebook\bin\Debug\Facebook.exe.config

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://bet888.cloudapp.net/FacebookService.svc?disco" filename="FacebookService.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://bet888.cloudapp.net/FacebookService.svc?wsdl" filename="FacebookService.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://bet888.cloudapp.net/FacebookService.svc?xsd=xsd0" filename="FacebookService.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://bet888.cloudapp.net/FacebookService.svc?xsd=xsd1" filename="FacebookService0.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="http://bet888.cloudapp.net/FacebookService.svc?xsd=xsd2" filename="FacebookService1.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>
